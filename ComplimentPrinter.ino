@@ -144,10 +144,10 @@ void niceCompliment()
   }
   
   
-  int i = random(1,35);
+  int i = random(1,36);
   if(i == last)
   {
-    i = random(1,35);
+    i = random(1,36);
   }
   last = i;
     
